@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a478b45-7cc5-4bf8-b00e-6fdaa2196bd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Code.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Code/Cutoff.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Code/Cutoff.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending - Two Passes.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending - Two Passes.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending - Two Passes.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending - Two Passes.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Alpha Blending.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutoff.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutoff.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutoff.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutoff.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutout (Alpha Testing).mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutout (Alpha Testing).mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutout (Alpha Testing).shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Cutout (Alpha Testing).shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Lighting - light vector in vertex shader.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Lighting - light vector in vertex shader.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Lighting - light vector in vertex shader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Lighting - light vector in vertex shader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Bumbed Glossy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Bumbed Glossy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Parallax Mapping.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Parallax Mapping.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Reflective.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal - Reflective.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping - Tangent Space.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping - Tangent Space.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping - Tangent Space.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping - Tangent Space.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Normal Mapping.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Parallax Mapping.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Parallax Mapping.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Parallax Mapping.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Parallax Mapping.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Reflection.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Reflection.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Reflection.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Reflection.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Skybox.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Skybox.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Standard - Normal Mapping.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Standard - Normal Mapping.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Standard - Reflective.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Standard - Reflective.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_albedo.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_albedo.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_height.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_height.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Brick_Medieval_1K_normal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/wall_with_hole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/wall_with_hole.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Lighting.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Lighting.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityLightingCommon.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityStandardCore.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityStandardCoreForward.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityStandardBRDF.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityShaderUtilities.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityPBSLighting.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/HLSLSupport.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/CGIncludes/AutoLight.cginc" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24VkP0oHXVX36KZei54F1nxFdVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a478b45-7cc5-4bf8-b00e-6fdaa2196bd7" name="Changes" comment="" />
+      <created>1643723141697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643723141697</updated>
+      <workItem from="1643723173627" duration="1123000" />
+      <workItem from="1644225066986" duration="9769000" />
+      <workItem from="1644271679967" duration="9740000" />
+      <workItem from="1644828543608" duration="11475000" />
+      <workItem from="1644915863316" duration="8629000" />
+    </task>
+    <task id="LOCAL-00001" summary="ADDED: directional lighting shader with Lambert, Phong &amp; BlinnPhong&#10;ADDED: self illumination shader">
+      <created>1644240968957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644240968957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADDED: multi light shader">
+      <created>1644320044472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644320044473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="ADDED: directional lighting shader with Lambert, Phong &amp; BlinnPhong&#10;ADDED: self illumination shader" />
+    <MESSAGE value="ADDED: multi light shader" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED: multi light shader" />
+  </component>
+</project>
